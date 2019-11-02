@@ -24,7 +24,7 @@ an installed java runtime editon (JRE) on you computer to run this application.
  * Support window resizing
 
 ## Results
-The following images are created with this application. The picture are from unsplash.com - Thanks for that service.
+The following images are created with this application. The picture are from [unsplash.com](https://unsplash.com) - Thanks for that service.
 
 ![alt result 1](https://github.com/Milchreis/madeFromLines/blob/master/screenshots/out1.jpg)
 
