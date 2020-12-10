@@ -3,7 +3,7 @@
 This application is based on the [processing programming environment](https://processing.org). With Made-from-lines you can load pictures into the application
 and generate a creative line drawing. There are some controls to tweak the result.
 
-The internal algorithm is already included to my [image-processing library](https://github.com/Milchreis/processing-imageprocessing), if you want to use it in your own project.
+The internal algorithm is already included to my [image-processing library](https://github.com/Milchreis/processing-imageprocessing#strokes-image), if you want to use it in your own project.
 
 If you like this project and you want to keep me awake 🤪
 
